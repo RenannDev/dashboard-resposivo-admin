@@ -1,3 +1,6 @@
+* link para visualizar o projeto(demo): https://renanndev-dashboard-admin.netlify.app/
+
+--Eu não consegui colocar ainda no github pages :)
 
 # 📊 Admin Dashboard
 

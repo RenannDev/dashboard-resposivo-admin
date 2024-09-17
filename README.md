@@ -4,7 +4,7 @@
 
 # 📊 Admin Dashboard
 
-Bem-vindo, esse é um Painel de administração interativo e funcional desenvolvido com JavaScript. Este projeto foi criado para praticar minhas hanilidades de web designer e criar algo para facilitar o gerenciamento de dados e processos, apresentando uma interface amigável para administradores.
+Bem-vindo, esse é um Painel de administração interativo e funcional desenvolvido com JavaScript. Este projeto foi criado para praticar minhas habilidades de web designer e criar algo para facilitar o gerenciamento de dados e processos, apresentando uma interface amigável para administradores.
 
 ## 🎯 Objetivo do Projeto
 
